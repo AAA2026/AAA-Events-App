@@ -1,0 +1,13 @@
+{
+  "settings": {
+    "title": "Settings",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "language": "Language"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  }
+} 

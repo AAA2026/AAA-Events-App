@@ -1,0 +1,61 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "username": "Username",
+    "forgotPassword": "Forgot Password?",
+    "loginSuccess": "Logged in successfully",
+    "registerSuccess": "Registered successfully"
+  },
+  "events": {
+    "title": "Events",
+    "createEvent": "Create Event",
+    "editEvent": "Edit Event",
+    "deleteEvent": "Delete Event",
+    "eventName": "Event Name",
+    "description": "Description",
+    "date": "Date",
+    "time": "Time",
+    "location": "Location",
+    "price": "Price",
+    "capacity": "Capacity",
+    "category": "Category",
+    "tags": "Tags",
+    "image": "Image",
+    "noEvents": "No events found",
+    "searchEvents": "Search events",
+    "filterBy": "Filter by",
+    "sortBy": "Sort by"
+  },
+  "bookings": {
+    "title": "Bookings",
+    "createBooking": "Create Booking",
+    "cancelBooking": "Cancel Booking",
+    "bookingDetails": "Booking Details",
+    "quantity": "Quantity",
+    "totalPrice": "Total Price",
+    "status": "Status",
+    "noBookings": "No bookings found"
+  },
+  "validation": {
+    "required": "This field is required",
+    "invalidEmail": "Invalid email address",
+    "passwordLength": "Password must be at least 6 characters",
+    "invalidDate": "Invalid date",
+    "invalidPrice": "Invalid price",
+    "invalidCapacity": "Invalid capacity"
+  }
+} 

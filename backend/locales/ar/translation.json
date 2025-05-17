@@ -1,0 +1,61 @@
+{
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "success": "نجاح",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "create": "إنشاء"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "register": "تسجيل",
+    "logout": "تسجيل الخروج",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "username": "اسم المستخدم",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "loginSuccess": "تم تسجيل الدخول بنجاح",
+    "registerSuccess": "تم التسجيل بنجاح"
+  },
+  "events": {
+    "title": "الفعاليات",
+    "createEvent": "إنشاء فعالية",
+    "editEvent": "تعديل الفعالية",
+    "deleteEvent": "حذف الفعالية",
+    "eventName": "اسم الفعالية",
+    "description": "الوصف",
+    "date": "التاريخ",
+    "time": "الوقت",
+    "location": "الموقع",
+    "price": "السعر",
+    "capacity": "السعة",
+    "category": "الفئة",
+    "tags": "العلامات",
+    "image": "الصورة",
+    "noEvents": "لا توجد فعاليات",
+    "searchEvents": "البحث عن فعاليات",
+    "filterBy": "تصفية حسب",
+    "sortBy": "ترتيب حسب"
+  },
+  "bookings": {
+    "title": "الحجوزات",
+    "createBooking": "إنشاء حجز",
+    "cancelBooking": "إلغاء الحجز",
+    "bookingDetails": "تفاصيل الحجز",
+    "quantity": "الكمية",
+    "totalPrice": "السعر الإجمالي",
+    "status": "الحالة",
+    "noBookings": "لا توجد حجوزات"
+  },
+  "validation": {
+    "required": "هذا الحقل مطلوب",
+    "invalidEmail": "البريد الإلكتروني غير صالح",
+    "passwordLength": "يجب أن تكون كلمة المرور 6 أحرف على الأقل",
+    "invalidDate": "تاريخ غير صالح",
+    "invalidPrice": "سعر غير صالح",
+    "invalidCapacity": "سعة غير صالحة"
+  }
+} 
