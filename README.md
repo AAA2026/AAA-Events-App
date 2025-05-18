@@ -1,6 +1,6 @@
 # Event Booking Application
 
-A modern event booking application built with React, Material UI, Node.js, Express, and MySQL.
+An event booking application built with React, Material UI, Node.js, Express, and MySQL.
 
 ## Features
 
@@ -90,11 +90,3 @@ A modern event booking application built with React, Material UI, Node.js, Expre
 - GET `/api/users/:id` - Get single user
 - POST `/api/users` - Create user
 - PUT `/api/users/:id` - Update user
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
