@@ -1,6 +1,6 @@
 # Event Booking Application
 
-An event booking application built with React, Material UI, Node.js, Express, and MySQL.
+### An event booking application built with React, Material UI, Node.js, Express, and MySQL.
 
 ## Features
 
