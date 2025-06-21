@@ -93,7 +93,7 @@ INSERT INTO Events (title, description, date, venue, price, category, capacity, 
 
 ('Art Exhibition', 
 'Explore contemporary art from emerging and established artists. Includes guided tours and artist meet-and-greets.', 
-'2024-10-01 10:00:00', 
+'2024-09-01 10:00:00', 
 'Modern Art Museum, New York', 
 49.99, 
 'Arts', 
