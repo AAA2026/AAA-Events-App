@@ -1,4 +1,4 @@
-# Event Booking Application
+# Boonix
 
 ### An event booking application built with React, Material UI, Node.js, Express, and MySQL.
 
